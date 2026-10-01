@@ -1,0 +1,14 @@
+Input/
+Archive/
+Logs/
+*.xlsx
+*.xls
+.env
+credentials.json
+__pycache__/
+fetch_alignbooks*.py
+setup_credentials.py
+update_dashboard*.py
+*.bat
+BOT_README.txt
+README.txt
